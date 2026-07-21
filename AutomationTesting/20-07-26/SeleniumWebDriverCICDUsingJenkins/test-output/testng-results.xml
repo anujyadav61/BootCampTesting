@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-07-20T16:06:43 IST" name="Default suite" finished-at="2026-07-20T16:07:07 IST" duration-ms="23183">
+    <groups>
+    </groups>
+    <test started-at="2026-07-20T16:06:43 IST" name="Default test" finished-at="2026-07-20T16:07:07 IST" duration-ms="23183">
+      <class name="com.JenkinsCICD.DemoTest.CICDTest">
+        <test-method signature="NavigateDemo()[pri:0, instance:com.JenkinsCICD.DemoTest.CICDTest@28cda624]" started-at="2026-07-20T16:06:43 IST" name="NavigateDemo" finished-at="2026-07-20T16:06:56 IST" duration-ms="12477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateDemo -->
+        <test-method signature="NavigateBackDemo()[pri:1, instance:com.JenkinsCICD.DemoTest.CICDTest@28cda624]" started-at="2026-07-20T16:06:56 IST" name="NavigateBackDemo" finished-at="2026-07-20T16:07:04 IST" duration-ms="7759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateBackDemo -->
+        <test-method signature="RefreshMethod()[pri:2, instance:com.JenkinsCICD.DemoTest.CICDTest@28cda624]" started-at="2026-07-20T16:07:04 IST" name="RefreshMethod" finished-at="2026-07-20T16:07:07 IST" duration-ms="2801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RefreshMethod -->
+      </class> <!-- com.JenkinsCICD.DemoTest.CICDTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
